@@ -1,0 +1,3 @@
+[submodule "python/ndlml"]
+	path = python/ndlml
+	url = https://github.com/SheffieldML/ndlml
